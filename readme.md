@@ -29,7 +29,7 @@ CleanMoq was forked from Moq version 4.20.0 where all reference coding to Sponso
 
 It has been completely removed in CleanMoq.
 
-Version 1.0.0 is the beginning of CleanMoq, it is the version 4.20.0 without the spywhere.
+Version 1.0.0 is the beginning of CleanMoq, it is the version 4.20.0 without the spyware.
 
 CleanMoq will be enhanced to standard principles as required and versioning forward will commence from version 1.0.0. 
 
@@ -37,7 +37,7 @@ CleanMoq may or may not be updated with future enhancements of the original Moq 
 
 CleanMoq will stand as its own library into the future, we hope we can build everyones confidence in using it without worry or concerns. 
 
-The motto remains the same in The Standard Community (Coalition of Good-Hearted Engineers)
+The motto remains the same in The Standard Community (A Coalition of Good-Hearted Engineers)
 
 ## How to install
 Install from [NuGet](http://nuget.org/packages/CleanMoq).
