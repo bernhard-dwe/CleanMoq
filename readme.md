@@ -23,7 +23,7 @@ Please use with confidence in building your Standard Compliant systems.
 ## Roadmap
 On August 4, 2023 SponserLink was introduced in the 4.20.0 version of the Moq library by its creators, and on August 9, 2023 it was removed via the proj file only after the Apple systems failed to build.
 
-Moq Version 4.20.69 released on August 11, 2023 states SponsorLink removal via pull request #1375.  Again only with the removal of the project reference. SponsorLink is still a viable potential threat of being reimplemented at any givin point in time as the coding for it still resides within this cuurent version v4.20.69.
+Moq Version 4.20.69 released on August 11, 2023 states SponsorLink removal via pull request #1375.  Again only with the removal of the project reference. SponsorLink is still a viable potential threat of being reimplemented at any givin point in time as the coding for it still resides within this current version v4.20.69.
 
 CleanMoq was forked from Moq version 4.20.0 where all reference coding to SponsorLink has been removed not just the project reference within the Moq.CodeAnalysis project file. 
 
@@ -38,6 +38,17 @@ CleanMoq may or may not be updated with future enhancements of the original Moq 
 CleanMoq will stand as its own library into the future, we hope we can build everyones confidence in using it without worry or concerns. 
 
 The motto remains the same in The Standard Community (A Coalition of Good-Hearted Engineers)
+
+## Standard-Promise
+The most important fulfillment aspect in a Standard complaint system is aimed towards contributing to people, its evolution, and principles.
+An organization that systematically honors an environment of learning, training, and sharing knowledge is an organization that learns from the past, makes calculated risks for the future, 
+and brings everyone within it up to speed on the current state of things as honestly, rapidly, and efficiently as possible. 
+ 
+We believe that everyone has the right to privacy, and will never do anything that could violate that right.
+We are committed to writing ethical and responsible software, and will always strive to use our skills, coding, and systems for the good.
+We believe that these beliefs will help to ensure that our software(s) are safe and secure and that it will never be used to harm or collect personal data for malicious purposes.
+ 
+The Standard Community as a promise to you is in upholding these values.
 
 ## How to install
 Install from [NuGet](http://nuget.org/packages/CleanMoq).
