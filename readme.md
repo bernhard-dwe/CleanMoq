@@ -23,7 +23,7 @@ Please use with confidence in building your Standard Compliant systems.
 ## Roadmap
 On August 4, 2023 SponserLink was introduced in the 4.20.0 version of the Moq library by its creators, and on August 9, 2023 it was removed via the proj file only after the Apple systems failed to build.
 
-Moq Version 4.20.69 released on August 11, 2023 states SponsorLink removal via pull request #1375.  Again only with the removal of the project reference. SponsorLink is still a viable potential threat of being reimplemented at any givin point in time as the coding for it still resides within this current version v4.20.69.
+Moq Version 4.20.69 released on August 11, 2023 states SponsorLink removal via pull request #1375.  Again only with the removal of the project reference. SponsorLink is still a viable potential threat of being reimplemented at any given point in time as the coding for it still resides within this current version v4.20.69.
 
 CleanMoq was forked from Moq version 4.20.0 where all reference coding to SponsorLink has been removed not just the project reference within the Moq.CodeAnalysis project file. 
 
